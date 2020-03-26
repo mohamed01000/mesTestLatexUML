@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{The Essentials}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Basic graphics objects}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{empty diagram}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{thread}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{instance}{subsection.1.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.1.4}{distance between threads and instances}{subsection.1.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.1.5}{customization}{subsection.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.2}{Call}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.1}{call}{subsection.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.2.2}{call self}{subsection.1.2}% 10
+\BOOKMARK [3][-]{subsubsection.1.2.3}{message call}{subsection.1.2}% 11
+\BOOKMARK [3][-]{subsubsection.1.2.4}{nested call}{subsection.1.2}% 12
+\BOOKMARK [2][-]{subsection.1.3}{Message}{section.1}% 13
+\BOOKMARK [2][-]{subsection.1.4}{Block}{section.1}% 14
+\BOOKMARK [1][-]{section.2}{Manually adjustment}{}% 15
+\BOOKMARK [2][-]{subsection.2.1}{Level}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.2}{Bias of thread line}{section.2}% 17
+\BOOKMARK [1][-]{section.3}{Examples}{}% 18
+\BOOKMARK [2][-]{subsection.3.1}{Single thread}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.2}{Multi-threads}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.3}{Annotation}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.4}{Known Issue}{section.3}% 22
+\BOOKMARK [1][-]{section.4}{Acknowledgements}{}% 23
